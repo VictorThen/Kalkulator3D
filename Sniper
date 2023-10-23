@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/Project1.css">
+</head>
+<body 
+    style="background-image: url('sniper2.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;">
+         
+     <nav>
+        <div class="flex">
+            <img src="Vic_the_Collector-removebg-preview.png"alt="Logo">
+            <li style="margin-left: 1%; ">
+                <b>
+                    <a href="Project1.html">Menu</a>
+                </b>
+            </li>
+            <div class="menu">
+                <ul>
+                    <li>
+                        <b><a href="sniper.html">Sniper</a></b>
+                    </li>
+                    <li>
+                        <b><a href="assault.html">AssaultRifle</a></b>
+                    </li>
+                    <li>
+                        <b><a href="shotgun.html">Shotgun</a></b>
+                    </li>
+                    <li>
+                        <b><a href="pistol.html">Pistol</a></b>
+                    </li>
+                    <li>
+                        <b><a href="melee.html">Melee</a></b>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        <div class="alls">
+        <img src="fotoGoogle/sniper/hkg3_sg-1-jerman.jpg" alt="">
+        <img src="fotoGoogle/sniper/m93-serbia.jpg" alt="">
+        <img src="fotoGoogle/sniper/Remington_Model_700-amerika.jpg" alt="">
+        <img src="fotoGoogle/sniper/sg-550-sniper-swiss.jpg" alt="">
+        <img src="fotoGoogle/sniper/SPR_3_indo.jpg" alt="">
+        <img src="fotoGoogle/sniper/SS2-V1_HB-Indo.jpg" alt="">
+        </div>
+        <div class="sniper1">
+            <p style="margin-left: 6%;"><b>H&K G3 s- Jerman</b></p>
+            <p style="margin-left: 4%;"><b>M93 - Serbia</b></p>
+            <p style="margin-left: 9%;"><b>Remington 700 - <br>Amerika Serikat</b></p>
+            <p style="margin-left: 6%;"><b>SG 550 - Swiss</b></p>
+            <p style="margin-left: 7%;"><b>SPR 3 - Indonesia</b></p>
+            <p style="margin-left: 5%;"><b>SS2 v1 - Indonesia</b></p>
+        </div>
+        <div class="alls">
+            <img src="fotoGoogle/sniper/ar10-amerika.jpg" alt="">
+            <img src="fotoGoogle/sniper/Arctic_Warfare_-inggris.jpg" alt="">
+            <img src="fotoGoogle/sniper/AX-308-inggris.jpg" alt="">
+            <img src="fotoGoogle/sniper/denel_ntw_20-afrikaselatan.jpg" alt="">
+            <img src="fotoGoogle/sniper/galatz-israel.jpg" alt="">
+            <img src="fotoGoogle/sniper/hecate_II-prancis.jpg" alt="">
+            </div>
+        <div class="sniper1">
+            <p style="margin-left: 6%;"><b>AR10 - <br>Amerika Serikat</b></p>
+            <p style="margin-left: 6%;"><b>Arctic Warfare - <br>Inggris</b></p>
+            <p style="margin-left: 7%;"><b>AX 308 - Inggris</b></p>
+            <p style="margin-left: 7%;"><b>Denel NTW  20 - <br> Afrikaselatan</b></p>
+            <p style="margin-left: 6%;"><b>Galatz - Israel</b></p>
+            <p style="margin-left: 8%;"><b>Hecate II - Prancis</b></p>
+        </div>
+
+
+    </div>
+
+</body>
+</html>
